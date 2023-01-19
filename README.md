@@ -1,2 +1,3 @@
-# Heading 1
-*Test*
+# Heading 1 
+*Test* \
+$$\gamma+1$$
