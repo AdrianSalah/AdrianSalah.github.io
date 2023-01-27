@@ -1,17 +1,13 @@
 title: Adrian Salah
-email: adrian.salah@gmail.com
+email: noname@gmail.com
 description: Calculation & Development Engineer
 
 github_username:  adriansalah
-#instagram_username: lautalexander
 linkedin_username: adriansalah
 
 theme: minima
 
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
 
-#collections:
- # notes:
-  #  output: true
+collections:
+  notes:
+    output: true
