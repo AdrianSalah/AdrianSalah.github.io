@@ -1,7 +1,8 @@
 ---
-usemathjax : true
+title: Home
+author: Adrian Salah
+date: January 27, 2023
 ---
-
 # Home 
 $$\gamma+1$$
 
