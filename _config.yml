@@ -8,7 +8,9 @@ linkedin_username: adriansalah
 
 theme: minima
 
-# markdown: GFM
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
 
 #collections:
  # notes:
