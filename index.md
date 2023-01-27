@@ -1,5 +1,5 @@
 # First Topic
-$$\gamma+1$$
+$$ \gamma+1 $$
 
 
 
