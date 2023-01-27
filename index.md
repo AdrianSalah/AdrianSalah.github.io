@@ -1,4 +1,6 @@
-# First Topic
+usemathjax : true
+
+## First 
 $$ \gamma+1 $$
 
 
@@ -7,3 +9,5 @@ $$ \gamma+1 $$
 if u == 1:
   print('Hello')
 ```
+
+## Some other stuff
