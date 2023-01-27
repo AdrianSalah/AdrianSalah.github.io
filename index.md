@@ -2,8 +2,8 @@
 usemathjax : true
 ---
 
-## First 
-$$ \gamma+1 $$
+# Home 
+$$\gamma+1$$
 
 
 
@@ -12,4 +12,5 @@ if u == 1:
   print('Hello')
 ```
 
-## Some other stuff
+# Blaaa
+## Second
