@@ -1,4 +1,6 @@
+---
 usemathjax : true
+---
 
 ## First 
 $$ \gamma+1 $$
